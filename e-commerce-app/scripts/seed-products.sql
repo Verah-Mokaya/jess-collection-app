@@ -3,16 +3,16 @@
 INSERT INTO products (name, description, price, category, stock_quantity, image_url)
 VALUES
 -- Clothing Items
-('Elegant Abaya', 'Premium black abaya with embroidered details. Sizes: XS, S, M, L, XL, 2XL', 79.99, 'clothing', 25, 'https://images.unsplash.com/photo-1505692952047-643ca54eeb16?w=500'),
-('Silk Hijab Set', 'Luxurious silk hijab in various colors', 34.99, 'clothing', 50, 'https://images.unsplash.com/photo-1550167740-d183d361246b?w=500'),
-('Evening Gown', 'Stunning evening wear with traditional patterns. Sizes: XS, S, M, L, XL', 129.99, 'clothing', 15, 'https://images.unsplash.com/photo-1595777707802-41d0fed34efb?w=500'),
-('Casual Dress', 'Comfortable everyday modest dress. Sizes: XS, S, M, L, XL, 2XL', 49.99, 'clothing', 40, 'https://images.unsplash.com/photo-1595607774223-ef52624120d2?w=500'),
+('Elegant Abaya', 'Premium black abaya with embroidered details. Sizes: XS, S, M, L, XL, 2XL', 79.99, 'clothing', 25, '/abaya.jpg'),
+('Silk Hijab Set', 'Luxurious silk hijab in various colors', 34.99, 'clothing', 50, '/hijab.jpg'),
+('Evening Gown', 'Stunning evening wear with traditional patterns. Sizes: XS, S, M, L, XL', 129.99, 'clothing', 15, '/dress.jpg'),
+('Casual Dress', 'Comfortable everyday modest dress. Sizes: XS, S, M, L, XL, 2XL', 49.99, 'clothing', 40, '/dress.jpg'),
 
 -- Shoes
-('Elegant Flats', 'Comfortable leather flats. Sizes: 5, 6, 7, 8, 9, 10, 11', 59.99, 'shoes', 30, 'https://images.unsplash.com/photo-1543163521-9145f931feaa?w=500'),
-('Formal Heels', 'Sophisticated heels for special occasions. Sizes: 5, 6, 7, 8, 9, 10, 11', 89.99, 'shoes', 20, 'https://images.unsplash.com/photo-1543163521-9145f931feaa?w=500'),
-('Casual Sneakers', 'Stylish and comfortable sneakers. Sizes: 5, 6, 7, 8, 9, 10, 11', 69.99, 'shoes', 35, 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500'),
-('Sandals', 'Perfect summer footwear. Sizes: 5, 6, 7, 8, 9, 10, 11', 39.99, 'shoes', 45, 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500'),
+('Elegant Flats', 'Comfortable leather flats. Sizes: 5, 6, 7, 8, 9, 10, 11', 59.99, 'shoes', 30, '/flats.jpg'),
+('Formal Heels', 'Sophisticated heels for special occasions. Sizes: 5, 6, 7, 8, 9, 10, 11', 89.99, 'shoes', 20, '/heels.jpg'),
+('Casual Sneakers', 'Stylish and comfortable sneakers. Sizes: 5, 6, 7, 8, 9, 10, 11', 69.99, 'shoes', 35, '/sneakers.jpg'),
+('Sandals', 'Perfect summer footwear. Sizes: 5, 6, 7, 8, 9, 10, 11', 39.99, 'shoes', 45, '/sandals.jpg'),
 
 -- Jewelry
 ('Gold Necklace', 'Elegant gold chain necklace', 149.99, 'jewellery', 12, 'https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500'),
