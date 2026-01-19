@@ -206,9 +206,11 @@ function ProductContent() {
             {/* Product Image */}
             <div className="bg-white rounded-lg shadow p-8 flex items-center justify-center h-96 lg:h-auto">
               <img
-                src={product.image_url || '/placeholder.png'}
+                src={product.image_url ? `${product.image_url}` : '/placeholder.png'}
                 alt={product.name}
-                className="w-full h-full object-contain"
+                width={400}
+                height={400}
+                className="object-contain"
               />
             </div>
 
