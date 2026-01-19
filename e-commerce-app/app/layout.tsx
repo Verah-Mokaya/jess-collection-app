@@ -10,8 +10,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Jess Collection - Elegant Islamic Fashion',
-  description: 'Discover modest and elegant Islamic fashion for women. Shop hijabs, abayas, dresses, shoes, jewelry, and handbags at Jess Collection.',
+  title: 'Jess Collection - Elegant Fashion',
+  description: 'Jess Collection makes modest fashion and accessories accessible to customers throughout Africa. From elegant hijabs to stylish shoes and beautiful jewellery, the platform offers a smooth, secure, and mobile-friendly shopping experience.',
   generator: 'v0.app',
   icons: {
     icon: [
