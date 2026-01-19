@@ -6,9 +6,9 @@ Jess Collection is a modern eCommerce web application selling hijabs, shoes, and
 
 Jess Collection makes modest fashion and accessories accessible to customers throughout Africa. From elegant hijabs to stylish shoes and beautiful jewellery, the platform offers a smooth, secure, and mobile-friendly shopping experience.
 
-Location: 📍 Hargeisa, Somaliland
+Location: Hargeisa, Somaliland
 
-Delivery Coverage: 🚚 Africa-wide
+Delivery Coverage: Africa-wide
 
  <!-- Products -->
 
